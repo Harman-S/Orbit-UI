@@ -1,165 +1,143 @@
 {
+	
 	"wallpapers": [
 		{
 			"name": "Material Blue",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_9.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_9.jpg"
 		},
 		{
 			"name": "Material Green",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_10.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_10.jpg"
 		},
 		{
 			"name": "Material Red",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_8.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_8.jpg"
 		},
 		{
 			"name": "Material Yellow",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_11.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_11.jpg"
 		},
 		{
 			"name": "Material Orange",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_12.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_12.jpg"
 		},
 		{
 			"name": "Material Grey",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_13.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_12.jpg"
 		},
 		{
 			"name": "Blue Triangles",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_21.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_21.jpg"
 		},
 		{
 			"name": "Green Triangles",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_20.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_20.jpg"
 		},
 		{
 			"name": "Red Triangles",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_22.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_22.jpg"
 		},
 		{
 			"name": "Yellow Triangles",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_23.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_23.jpg"
 		},
 		{
 			"name": "Yellow Triangles",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_23.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_23.jpgg"
 		},
 		{
 			"name": "Grey Triangles",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_24.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/material_24.jpg"
 		},
 		{
 			"name": "Blue Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_8.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_8.jpg"
 		},
 		{
 			"name": "Lime Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_10.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_10.jpg"
 		},
 		{
 			"name": "Red Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_14.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_14.jpgg"
 		},
 		{
 			"name": "Yellow Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_11.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_11.jpg"
 		},
 		{
 			"name": "Orange Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_12.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_12.jpg"
 		},
 		{
 			"name": "Grey Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_13.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_13.jpg"
 		},
 		{
 			"name": "Pink Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_15.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_15.jpg"
 		},
 		{
 			"name": "Teal Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_9.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_9.jpg"
 		},
 		{
 			"name": "Purple Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_16.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_16.jpg"
 		},
 		{
 			"name": "Cyan Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_7.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_7.jpg"
 		},
 		{
 			"name": "Navy Lines",
 			"author": "Harman S",
 			"url": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_17.jpg",
-			"dimensions": "",
-			"copyright": ""
+			"thumbUrl": "https://raw.githubusercontent.com/Harman-S/Orbit-UI/master/MaterialWall_17.jpg"
 		}
 	
 	]
